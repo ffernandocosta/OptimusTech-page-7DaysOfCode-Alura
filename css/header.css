@@ -1,8 +1,54 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5em 7em;
+}
+
 .header__logo {
     display: flex;
     align-items: center;
 }
 
 .header__title {
-    font-size: 18px
+    font-size: 18px;
+    color: var(--logo-color);
+    margin-left: 0.5em;
+}
+
+.header__nav {
+    margin-right: auto;
+    margin-left: 8em;
+}
+
+.nav__list {
+    display: flex;
+}
+
+.nav__item {
+    margin-right: 2em;
+}
+
+.nav__link {
+    text-decoration: none;
+    color: var(--gray);
+}
+
+.sign-in-up__box {
+    display: flex;
+    align-items: center;
+}
+
+.sign-in {
+    margin-right: 2em;
+    text-decoration: none;
+    color: var(--gray);
+}
+
+.sign-up {
+    background-color: var(--sign-up-red);
+    color: var(--background-color);
+    text-decoration: none;
+    padding: 14px 18px;
+    border-radius: 7px;
 }
