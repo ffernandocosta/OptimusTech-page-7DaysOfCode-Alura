@@ -1,4 +1,5 @@
 @import url(/css/header.css);
+@import url(/css/aboutus.css);
 
 :root {
     --main-font: "Inter";
@@ -6,6 +7,7 @@
     --gray: #667085;
     --logo-color: #3A404E;
     --sign-up-red: #8E2424;
+    --dark-gray: #101828;
 }
 
 body {
