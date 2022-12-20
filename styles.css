@@ -1,6 +1,7 @@
 @import url(/css/header.css);
 @import url(/css/aboutus.css);
 @import url(/css/hiring.css);
+@import url(/css/collaborators.css);
 
 :root {
     --main-font: "Inter";

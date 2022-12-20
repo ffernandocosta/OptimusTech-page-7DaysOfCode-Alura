@@ -1,0 +1,40 @@
+.collaboratos {
+    text-align: center;
+}
+
+.collaborators__box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1em;
+    margin: 4em 7em;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    padding: 3em 4em;
+}
+
+.collaborators__box span {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--sign-up-red);
+}
+
+.collaborators__box h2 {
+    font-size: 36px;
+    color: var(--dark-gray);
+}
+
+.collaborators__box img {
+    width: 5%;
+    align-self: center;
+}
+
+.collaborators__perfil {
+    font-size: 16px;
+}
+
+.collaboratos__job {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--gray);
+}
