@@ -2,6 +2,7 @@
 @import url(/css/aboutus.css);
 @import url(/css/hiring.css);
 @import url(/css/collaborators.css);
+@import url(/css/newsletter.css);
 
 :root {
     --main-font: "Inter";
@@ -10,6 +11,7 @@
     --logo-color: #3A404E;
     --sign-up-red: #8E2424;
     --dark-gray: #101828;
+    --background-gray: #F9FAFB;
 }
 
 body {
