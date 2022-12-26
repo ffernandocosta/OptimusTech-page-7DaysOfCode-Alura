@@ -1,8 +1,8 @@
-@import url(/css/header.css);
-@import url(/css/aboutus.css);
-@import url(/css/hiring.css);
-@import url(/css/collaborators.css);
-@import url(/css/newsletter.css);
+@import url("css/header.css");
+@import url("css/aboutus.css");
+@import url("css/hiring.css");
+@import url("css/collaborators.css");
+@import url("css/newsletter.css");
 
 :root {
     --main-font: "Inter";
