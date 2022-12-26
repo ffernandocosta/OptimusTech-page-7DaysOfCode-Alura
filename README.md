@@ -23,7 +23,7 @@ This is a 7 day code challenge to develop a page from a figma file using my HTML
 
 ### Links
 
-- Live Site URL: [OptimusTech]([https://your-live-site-url.com](https://ffernandocosta.github.io/OptimusTech-page-7DaysOfCode-Alura/))
+- Live Site URL: [OptimusTech](https://ffernandocosta.github.io/OptimusTech-page-7DaysOfCode-Alura/)
 
 ## My process
 
